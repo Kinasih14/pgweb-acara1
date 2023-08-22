@@ -17,7 +17,7 @@ Treasure :
 3. jihoon
 ____
 
-Code :S
+Code :
 ```
 <html>
     <head>
@@ -34,7 +34,7 @@ Kelas: B
 
 Avatar:
 
-![Avatar](Image\Avatar.png)
+![Avatar](Image/Avatar.png)
 
 <img src= "Image/Avatar.png" width="100">
 
